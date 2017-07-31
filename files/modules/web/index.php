@@ -14,7 +14,7 @@
           <!-- Section 1  -->
           <div class="section section0" id="section0">
             <img src="../../../skin/images/web/innovalogo.png" alt="innovalogo" class="logo wow animated fadeIn" />
-            <h4 class="mainSlogan animated fadeIn">Sistemas de Gesti&oacute;n para Empresas</h4>
+            <h4 class="mainSlogan animated fadeIn">Sistemas de Gesti&oacute;n Web para Empresas</h4>
             <div class="mouseScroll animated fadeIn">
               <!-- <img src="../../../skin/images/body/icons/mousescroll.png" alt="" class="" /> -->
             </div>
@@ -23,88 +23,91 @@
           <div class="section section1 wow animated fadeIn" id="section1">
             <div class="container-fluid featuresDiv">
               <div class="container">
-                <!-- <div class="titles">
-                  <span><b>RENOVATIO</b> | <span>SISTEMA DE AUTOADMINISTRACIÓN PROYECTOS Y SITIOS WEB</span>
+                <div class="titles">
+                  <span>ALGUNOS M&Oacute;DULOS DE NUESTROS SISTEMAS</span>
+                  <hr>
                 </div>
-                <hr> -->
+                
                 <!-- FIRST ROW -->
                 <div class="row features">
-                  <div class="col-md-4 col-xs-6">
+                  <div class="col-md-3 col-xs-6">
                     <div class="feature-box animated fadeIn">
-                      <i class="fa fa-briefcase"></i><br>
-                      <h3>Administre su proyecto</h3>
-                      <p>Alta, baja y modificación de items o productos.
-                        Actualición de información.<br>
-                        Creación de posteos o artículos.<br>
-                      </p>
+                      <i class="fa fa-user"></i><br>
+                      <h3>Clientes</h3>
                     </div>
                   </div>
-                  <div class="col-md-4 col-xs-6">
+                  <div class="col-md-3 col-xs-6">
                     <div class="feature-box animated fadeIn">
-                      <i class="fa fa-rocket"></i><br>
-                      <h3>Escalabilidad</h3>
-                      <p>El sistema dispone de distintos módulos, con distintas funciones, que se pueden ir adquiriendo e incorporando según sus necesidades lo requieran</p>
+                      <i class="fa fa-shopping-cart"></i><br>
+                      <h3>Proveedores</h3>
                     </div>
                   </div>
-                  <div class="col-md-4 col-xs-6">
+                  <div class="col-md-3 col-xs-6">
                     <div class="feature-box animated fadeIn">
-                      <i class="fa fa-globe"></i><br>
-                      <h3>Accesibilidad Total</h3>
-                      <p>Puede ingresar al sistema desde cualquier lugar <br>y desde cualquier dispositivo.</p>
+                      <i class="fa fa-cube"></i><br>
+                      <h3>Productos</h3>
+                    </div>
+                  </div>
+                  <div class="col-md-3 col-xs-6">
+                    <div class="feature-box animated fadeIn">
+                      <i class="fa fa-tags"></i><br>
+                      <h3>Categor&iacute;as</h3>
                     </div>
                   </div>
                 </div>
                 <!-- SECOND ROW -->
                 <div class="row features">
-                  <div class="col-md-4 col-xs-6">
+                  <div class="col-md-3 col-xs-6">
                     <div class="feature-box animated fadeIn">
-                      <i class="fa fa-briefcase"></i><br>
-                      <h3>Administre su proyecto</h3>
-                      <p>Alta, baja y modificación de items o productos.
-                        Actualición de información.<br>
-                        Creación de posteos o artículos.<br>
-                      </p>
+                      <i class="fa fa-truck"></i><br>
+                      <h3>Log&iacute;stica</h3>
                     </div>
                   </div>
-                  <div class="col-md-4 col-xs-6">
+                  <div class="col-md-3 col-xs-6">
                     <div class="feature-box animated fadeIn">
-                      <i class="fa fa-rocket"></i><br>
-                      <h3>Escalabilidad</h3>
-                      <p>El sistema dispone de distintos módulos, con distintas funciones, que se pueden ir adquiriendo e incorporando según sus necesidades lo requieran</p>
+                      <i class="fa fa-file-text"></i><br>
+                      <h3>Facturaci&oacute;n</h3>
                     </div>
                   </div>
-                  <div class="col-md-4 col-xs-6">
+                  <div class="col-md-3 col-xs-6">
                     <div class="feature-box animated fadeIn">
-                      <i class="fa fa-globe"></i><br>
-                      <h3>Accesibilidad Total</h3>
-                      <p>Puede ingresar al sistema desde cualquier lugar <br>y desde cualquier dispositivo.</p>
+                      <i class="fa fa-cubes"></i><br>
+                      <h3>Stock</h3>
+                    </div>
+                  </div>
+                  <div class="col-md-3 col-xs-6">
+                    <div class="feature-box animated fadeIn">
+                      <i class="fa fa-trademark"></i><br>
+                      <h3>Marcas</h3>
                     </div>
                   </div>
                 </div>
                 <!-- THIRD ROW -->
                 <div class="row features">
-                  <div class="col-md-4 col-xs-6">
+                  <div class="col-md-3 col-xs-6">
                     <div class="feature-box animated fadeIn">
-                      <i class="fa fa-briefcase"></i><br>
-                      <h3>Administre su proyecto</h3>
-                      <p>Alta, baja y modificación de items o productos.
-                        Actualición de información.<br>
-                        Creación de posteos o artículos.<br>
+                      <i class="fa fa-ship"></i><br>
+                      <h3>Importaciones</h3>
+                      <p>
                       </p>
                     </div>
                   </div>
-                  <div class="col-md-4 col-xs-6">
+                  <div class="col-md-3 col-xs-6">
                     <div class="feature-box animated fadeIn">
-                      <i class="fa fa-rocket"></i><br>
-                      <h3>Escalabilidad</h3>
-                      <p>El sistema dispone de distintos módulos, con distintas funciones, que se pueden ir adquiriendo e incorporando según sus necesidades lo requieran</p>
+                      <i class="fa fa-area-chart"></i><br>
+                      <h3>Estad&iacute;sticas</h3>
                     </div>
                   </div>
-                  <div class="col-md-4 col-xs-6">
+                  <div class="col-md-3 col-xs-6">
                     <div class="feature-box animated fadeIn">
-                      <i class="fa fa-globe"></i><br>
-                      <h3>Accesibilidad Total</h3>
-                      <p>Puede ingresar al sistema desde cualquier lugar <br>y desde cualquier dispositivo.</p>
+                      <i class="fa fa-map-o"></i><br>
+                      <h3>Mapas</h3>
+                    </div>
+                  </div>
+                  <div class="col-md-3 col-xs-6">
+                    <div class="feature-box animated fadeIn">
+                      <i class="fa fa-dollar"></i><br>
+                      <h3>Contabilidad</h3>
                     </div>
                   </div>
                 </div>
@@ -117,9 +120,9 @@
             <div class="container contact animated fadeIn">
               <h1>CONTACTENOS</h1>
               <hr>
-              <div class="contactData"><i class="fa fa-mobile"></i><span> <b>(011) 3529-4527</b></span><br></div>
+              <div class="contactData"><i class="fa fa-mobile"></i><span> <b>15-3023-4991</b></span><br></div>
               <div class="contactData"><i class="fa fa-envelope-o"></i><span> info@innovastudio.com.ar</span><br></div>
-              <div class="contactData"><i class="fa fa-map-o"></i><span> Buenos Aires - Argentina</span><br></div>
+              <div class="contactData"><i class="fa fa-globe"></i><span> Buenos Aires - Argentina</span><br></div>
               <img src="../../../skin/images/web/innovalogo.png" />
             </div>
           </div>

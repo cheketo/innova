@@ -1,1 +1,1 @@
-<?php header("Location: files/modules/login/login.php"); die(); ?>
+<?php header("Location: files/modules/web/index.php"); die(); ?>
