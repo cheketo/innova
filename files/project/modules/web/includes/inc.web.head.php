@@ -4,7 +4,7 @@
 <meta name="keywords" content="" />
 <!-- Stylesheets -->
 <link href="styles/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
-<link href="../../../skin/css/webStyles.css" rel="stylesheet" type="text/css" media="all" />
+<link href="styles/webStyles.css" rel="stylesheet" type="text/css" media="all" />
 <link href="styles/animate.css" rel="stylesheet" type="text/css" media="all" />
 <!-- Compass -->
 
@@ -15,4 +15,4 @@
 <!-- <link rel="stylesheet" href="../../../vendors/bootstrap/bootstrap.min.css"> -->
 <!-- Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="../../../vendors/fontawesome/font-awesome-animation.min.css">
+<link rel="stylesheet" href="../../../../vendors/fontawesome/font-awesome-animation.min.css">

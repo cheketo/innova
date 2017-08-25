@@ -25,6 +25,39 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
   margin-bottom: 10px;
   color: #000; }
+  
+@media screen and (max-width: 990px){
+  h3{
+  font-size: 0.5em!important;
+  margin:0px!important;
+  padding:0px!important;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  }
+  
+  .titles{padding:0px!important;}
+  
+  .feature-box {
+  
+  margin:2px;
+  padding: 2px 2px;
+  }
+  
+  .feature-box .fa {
+    font-size: 1em;
+    width: 2.5em;
+    margin: 0px!important; }
+  .feature-box .fa-mobile {
+    font-size: 1em; }
+  .feature-box h1 {
+    text-align: center; }
+  .feature-box span {
+    margin: 5px 0; }
+  .feature-box img {
+    width: 250px;
+    margin-top: 15px; }
+  
+}
 
 .titW h1, .titW h2, .titW h3, .titW h4, .titW h5 {
   color: #fff; }
@@ -234,7 +267,7 @@ nav ul li a {
   width: 240px;
   height: 34px;
   overflow: hidden;
-  background: url(../images/body/icons/ddselectarrow.jpg) no-repeat right #ddd;
+  background: url(../../../../../skin/images/web/ddselectarrow.jpg) no-repeat right #ddd;
   border: 0;
   background-color: #ededed;
   margin: 0 auto; }
@@ -253,7 +286,7 @@ nav ul li a {
       cursor: pointer; }
 
 .section0 {
-  background-image: url(../images/web/body/backgrounds/back1.jpg);
+  background-image: url(../../../../../skin/images/web/back1.jpg);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -271,20 +304,18 @@ nav ul li a {
   transition: all 0.3s ease 0s; }
 
 #section1 {
-  background-image: url(../images/web/body/backgrounds/section1Back.jpg); }
+  background-image: url(../../../../../skin/images/web/section1Back.jpg); }
 
 .section1 {
   display: -webkit-box;
   display: -ms-flexbox;
-  display: flex;
-  align-items: flex-end; }
+  display: flex; }
 
 .featuresDiv {
-  background: #faf6ec;
   padding: 20px 5px;
   text-align: center;
   width: 100%;
-  border-bottom: 25px solid #E24C38; }
+   }
   .featuresDiv hr {
     background-color: rgba(226, 76, 56, 0.4);
     width: 70%; }
@@ -297,16 +328,16 @@ nav ul li a {
     color: #000;
     font-size: 1.2rem; }
 
-.features {
-  padding-top: 30px; }
+.features {}
   .features .fa {
+    /*background-color: #c0e2be;*/
     background-color: #E24C38;
     border-radius: 100%;
     font-size: 35px;
-    width: 58px;
-    height: 58px;
-    padding-top: 11px;
-    color: #fff;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    color: #FFF;
     margin-bottom: 10px; }
   .features p {
     font-weight: 300; }
@@ -314,7 +345,7 @@ nav ul li a {
     font-weight: 400; }
 
 #section2 {
-  background-image: url(../images/web/body/backgrounds/section2Back.jpg); }
+  background-image: url(../../../../../skin/images/web/section2Back.jpg); }
 
 .section2 {
   display: -webkit-box;
@@ -356,6 +387,52 @@ nav ul li a {
     width: 250px;
     margin-top: 15px; }
 
+.feature-box {
+  background-color: #faf6ec;
+  margin:5px;
+  padding: 10px 10px;
+  border-radius: 8px;
+  /*border-bottom: 10px solid #E24C38;*/
+  border-bottom: 10px solid #77b5a6;
+  -webkit-box-shadow: 7px 6px 5px -6px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 7px 6px 5px -6px rgba(0, 0, 0, 0.75);
+  box-shadow: 7px 6px 5px -6px rgba(0, 0, 0, 0.75); }
+  .feature-box .fa {
+    font-size: 20px;
+    width: 35px;
+    margin-right: 10px; }
+  .feature-box .fa-mobile {
+    font-size: 26px; }
+  .feature-box h1 {
+    text-align: center; }
+  .feature-box span {
+    margin: 15px 0; }
+  .feature-box img {
+    width: 250px;
+    margin-top: 15px; }
+    
+  .title-box {
+  background-color: #faf6ec;
+  margin:2px;
+  padding: 0px 5px;
+  
+  border-radius: 8px;
+  border-top: 10px solid #10b235;
+  }
+  .title-box .fa {
+    font-size: 20px;
+    width: 35px;
+    margin-right: 10px; }
+  .title-box .fa-mobile {
+    font-size: 26px; }
+  .title-box h1 {
+    text-align: center; }
+  .title-box span {
+    margin: 15px 0; }
+  .title-box img {
+    width: 250px;
+    margin-top: 15px; }
+
 .contactData {
   margin: 10px 0; }
 
@@ -371,10 +448,19 @@ nav ul li a {
 
 .mainSlogan {
   -webkit-transition-delay: 12s;
-  transition-delay: 12s; }
+  transition-delay: 12s;
+  color:#444;
+  font-family: sans-serif!important;
+  /*font-size: 2em;*/
+  font-weight: 350;
+  /*border:2px solid #444;*/
+  /*border-left:0px;*/
+  /*border-right:0px;*/
+  /*text-shadow: 2px 2px 2px #222;*/
+}
 
 .loginScreen {
-  background: url(../images/body/backgrounds/ligaBack.jpg) no-repeat center center fixed;
+  background: url(../../../../../skin/images/web/ligaBack.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
